@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi there 👋 It's me **Naveen Kumar M.**
 
-<!--
-**Naveee08/Naveee08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Developer | Full-Stack Enthusiast | AI & Chatbot Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **About Me:**
+- 🔭 I’m currently working on building innovative projects, including **Nave_Ai**, an AI chatbot platform designed for seamless user interactions.
+- 🌱 I’m currently learning advanced **Data Structures**, **Algorithms**, and **Full-Stack Development** with a focus on **Next.js** and **React**.
+- 👯 I’m looking to collaborate on impactful **AI** and **ML** projects and open-source **Full-Stack Development** initiatives.
+- 🤔 I’m looking for help with placements and networking in **FAANG** companies.
+- 💬 Ask me about **Software Development**, **AI & Chatbots**, and my journey in **Full-Stack Development**.
+- 📫 **How to reach me**:
+  - [LinkedIn](https://www.linkedin.com/in/naveen2908/)
+  - [GitHub](https://github.com/Naveee08/)
+  - [Portfolio](https://navee.vercel.app/)
+  - **Email**: naveenkumar2908@example.com
+- 😄 **Pronouns**: He/Him  
+- ⚡ **Fun fact**: I like to switch up my daily routine for inspiration and love creating unique tech solutions!
+
+---
+
+### 🛠️ Technologies & Tools I Code In
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+</p>
+
+### 🧰 IDE and Tools I Use
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+</p>
+
+### 💻 Workspace Specs
+<p align="left">
+  <img src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-FF6C00?style=for-the-badge&logo=amd&logoColor=white" alt="AMD Ryzen 5 4600H"/>
+  <img src="https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA GTX 1650"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveee08&show_icons=true&theme=radical" alt="Naveen Kumar M's GitHub Stats"/>
+</p>
+
+---
+
+👀 **Looking for opportunities**: Actively seeking roles that allow me to leverage my skills in **Full-Stack Development** and **AI-powered applications**. Eager to connect with like-minded professionals and work on projects that drive impact.
+
+---
+
+**Thank you for stopping by! Let's create something amazing together.**
