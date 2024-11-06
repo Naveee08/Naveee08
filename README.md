@@ -1,10 +1,5 @@
 # Hi there 👋 I'm **Naveen Kumar M.**
 
-<div align="right">
-  <img src="https://i.imgur.com/your-gif-file.gif" alt="Software Development" width="300" height="200"/>
-</div>
-
-
 🚀 **Software Developer | Full-Stack Enthusiast | AI & Chatbot Developer**
 
 ---
