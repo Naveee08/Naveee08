@@ -1,6 +1,10 @@
 # Hi there 👋 I'm **Naveen Kumar M.**
 
-🚀 **Aspiring Software Developer | Full-Stack Enthusiast | AI & Chatbot Developer**
+<div align="right">
+  <img src="https://link-to-your-video-or-gif.gif" alt="Software Development" width="300" height="200"/>
+</div>
+
+🚀 **Software Developer | Full-Stack Enthusiast | AI & Chatbot Developer**
 
 ---
 
@@ -10,22 +14,11 @@
 - 👯 I’m looking to collaborate on impactful **AI** and **ML** projects and open-source **Full-Stack Development** initiatives.
 - 🤔 I’m looking for help with placements and networking in **FAANG** companies.
 - 💬 Ask me about **Software Development**, **AI & Chatbots**, and my journey in **Full-Stack Development**.
-## 📬 How to Reach Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/naveen2908/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Naveee08/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://navee.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:naveen04861@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+- 📫 **How to Reach Me**
+- [LinkedIn](https://www.linkedin.com/in/naveen2908/)
+- [GitHub](https://github.com/Naveee08/)
+- [Portfolio](https://navee.vercel.app/)
+- [Email](mailto:naveen04861@gmail.com)
 - 😄 **Pronouns**: He/Him  
 - ⚡ **Fun fact**: I like to switch up my daily routine for inspiration and love creating unique tech solutions!
 
@@ -34,12 +27,13 @@
 ## 🛠️ Languages & Technologies I Code In
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
