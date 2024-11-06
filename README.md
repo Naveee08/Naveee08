@@ -1,6 +1,6 @@
 # Hi there 👋 I'm **Naveen Kumar M.**
 
-🚀 **Software Developer | Full-Stack Enthusiast | AI & Chatbot Developer**
+🚀 **Aspiring Software Developer | Full-Stack Enthusiast | AI & Chatbot Developer**
 
 ---
 
@@ -10,6 +10,22 @@
 - 👯 I’m looking to collaborate on impactful **AI** and **ML** projects and open-source **Full-Stack Development** initiatives.
 - 🤔 I’m looking for help with placements and networking in **FAANG** companies.
 - 💬 Ask me about **Software Development**, **AI & Chatbots**, and my journey in **Full-Stack Development**.
+## 📬 How to Reach Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/naveen2908/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Naveee08/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://navee.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:naveen04861@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 - 😄 **Pronouns**: He/Him  
 - ⚡ **Fun fact**: I like to switch up my daily routine for inspiration and love creating unique tech solutions!
 
@@ -57,25 +73,6 @@
   <img src="https://img.shields.io/badge/Intel-Core_i7-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel Core i7"/>
   <img src="https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA GTX 1650"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-</p>
-
----
-
-## 📬 How to Reach Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/naveen2908/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Naveee08/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://navee.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:naveen04861@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </p>
 
 ---
